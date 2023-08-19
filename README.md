@@ -10,7 +10,8 @@ I'm a computer science student with a passion for coding and problem-solving.
 
 ## Portfolio
 Come and see my projects
-[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jula143.github.io/)](https://jula143.github.io/)
+
+[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jula143.github.io/)](https://jula143.github.io/)
 
 <!--
 **Jula143/Jula143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
