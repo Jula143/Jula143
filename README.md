@@ -1,5 +1,5 @@
 ### Hi I'm Julia  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif)" width="230">
+<img align='right' src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" width="230">
 I'm a computer science student with a passion for coding and problem-solving.
 
 [![Linkedin: ](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-miklaszewska/)](https://www.linkedin.com/in/julia-miklaszewska/)
