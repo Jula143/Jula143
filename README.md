@@ -1,6 +1,7 @@
 ### Hi I'm Julia  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" width="200">
 I'm a computer science student with a passion for coding and problem-solving.
+<img align='right' src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" width="300">
+
 
 [![Linkedin: ](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-miklaszewska/)](https://www.linkedin.com/in/julia-miklaszewska/)
 
