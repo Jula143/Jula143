@@ -1,5 +1,4 @@
 ### Hi I'm Julia  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 I'm a computer science student with a passion for coding and problem-solving.
 
 ## Skills 👨‍💻
@@ -7,7 +6,7 @@ I'm a computer science student with a passion for coding and problem-solving.
 - HTML, CSS
 - SQL
 
-[![Linkedin: ](https://img.shields.io/badge/-julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-miklaszewska/)](https://www.linkedin.com/in/julia-miklaszewska/)
+[![Linkedin: ](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-miklaszewska/)](https://www.linkedin.com/in/julia-miklaszewska/)
 
 <!--
 **Jula143/Jula143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
