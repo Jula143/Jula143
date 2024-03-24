@@ -1,14 +1,23 @@
-### Hi I'm Julia  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### :wave: Hi, welcome to my GitHub </h2>
 I'm a computer science student with a passion for coding and problem-solving.
-<img align='right' src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" width="300">
-
 
 [![Linkedin: ](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-miklaszewska/)](https://www.linkedin.com/in/julia-miklaszewska/)
 
-## Skills 👨‍💻
-- Python, Java, C++
-- HTML, CSS
-- SQL
+## Programming Languages 👨‍💻
+- Python: Intermediate Level
+- Java: Intermediate Level
+- C++: Basic Level
+
+## Other Skills 🛠️
+- Frameworks: Familiar with Qt, Django, Flask
+- Web Development: Basic knowledge of HTML and CSS
+- DBMS: MongoDB, PosgreSQL, MySQL
+- Version Control: Basic knowledge of GIT and GitHub
+- Containerization: Basic knowledge of Docker
+
+🔭 I'm currently developing a web application inspired by Goodreads, where the main functionality <br> revolves around providing users with the ability to discover new books according to their preferances.
+
+Feel free to explore my repositories and projects.
 
 <!--
 
