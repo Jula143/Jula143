@@ -15,7 +15,7 @@ I'm a computer science student with a passion for coding and problem-solving.
 - Version Control: Basic knowledge of GIT and GitHub
 - Containerization: Basic knowledge of Docker
 
-🔭 I'm currently developing a web application inspired by Goodreads, where the main functionality <br> revolves around providing users with the ability to discover new books according to their preferances.
+🔭 I am currently working on a testing platform that would enable the implementation and analysis of advanced RAG techniques.
 
 Feel free to explore my repositories and projects.
 
